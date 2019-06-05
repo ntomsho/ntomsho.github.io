@@ -426,7 +426,7 @@
 .icon-twitter-square:before {
   content: "\f08c";
 }
-.icon-facebook-square:before {
+.icon-github-square:before {
   content: "\f092";
 }
 .icon-camera-retro:before {
@@ -498,10 +498,10 @@
 .icon-twitter:before {
   content: "\f0e1";
 }
-.icon-facebook:before {
+.icon-github:before {
   content: "\f09b";
 }
-.icon-facebook-f:before {
+.icon-github-f:before {
   content: "\f09b";
 }
 .icon-github:before {
