@@ -7890,8 +7890,9 @@ header {
       margin-top: 40px; } }
   @media (min-width: 768px) {
     .wrap .about-desc {
-      position: relative; } }
+      position: relative; } }  
   .wrap .about-desc .bold-text {
+    z-index: -1;
     position: absolute;
     top: -80px;
     left: -50px;
