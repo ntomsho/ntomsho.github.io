@@ -24,6 +24,10 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.custom-icon img {
+  height: 75px;
+}
+
 .icon-asterisk:before {
   content: "\f069";
 }
@@ -3677,6 +3681,9 @@
 }
 .icon-layers_clear:before {
   content: "\e53c";
+}
+.icon-css:before {
+  content: "\f13c";
 }
 .icon-leak_add:before {
   content: "\e3f8";
